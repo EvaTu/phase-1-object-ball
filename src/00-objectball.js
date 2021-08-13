@@ -37,3 +37,4 @@ function homeTeamName(){
     return object["home"]["teamName"]
 }
 console.log(homeTeamName())
+
